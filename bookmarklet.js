@@ -9,9 +9,10 @@
   function main() {
     // You can log using the 'log' function, which won't break for users using browsers
     // that don't have a 'console' object.
-    log('Hello', 'bookmarklet!');
 
-    alert('You should modify your bookmarklet and share it with the world!');
+    $('.location').hide();
+
+    alert('no mo loco moco');
   }
 
   ///////////////////////////////////////////////////////////////////////////////////////////////
